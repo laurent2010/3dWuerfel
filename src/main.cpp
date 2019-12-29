@@ -2,6 +2,8 @@
 #include "WiFiServer.h"
 #include "WiFiClientSecure.h"
 
+// OpenHDZ/Arduino-experimentation
+
 float xBasis = 0;
 float yBasis = 0;
 float zBasis = 100;
